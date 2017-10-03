@@ -1,0 +1,15 @@
+C:\Users\Callan\Documents\VP1_Project\Galaxy Cinemas\Common\bin\Debug\Common.dll
+C:\Users\Callan\Documents\VP1_Project\Galaxy Cinemas\Common\bin\Debug\Common.pdb
+C:\Users\Callan\Documents\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.dll
+C:\Users\Callan\Documents\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.pdb
+C:\Users\Callan\Documents\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Callan\Desktop\VP1_Project\Galaxy Cinemas\Common\bin\Debug\Common.dll
+C:\Users\Callan\Desktop\VP1_Project\Galaxy Cinemas\Common\bin\Debug\Common.pdb
+C:\Users\Callan\Desktop\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Callan\Desktop\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.dll
+C:\Users\Callan\Desktop\VP1_Project\Galaxy Cinemas\Common\obj\Debug\Common.pdb
+C:\Users\Callan\Desktop\VP1_Project_92016097\Galaxy Cinemas\Common\bin\Debug\Common.dll
+C:\Users\Callan\Desktop\VP1_Project_92016097\Galaxy Cinemas\Common\bin\Debug\Common.pdb
+C:\Users\Callan\Desktop\VP1_Project_92016097\Galaxy Cinemas\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Callan\Desktop\VP1_Project_92016097\Galaxy Cinemas\Common\obj\Debug\Common.dll
+C:\Users\Callan\Desktop\VP1_Project_92016097\Galaxy Cinemas\Common\obj\Debug\Common.pdb
